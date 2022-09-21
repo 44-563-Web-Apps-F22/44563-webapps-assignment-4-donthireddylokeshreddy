@@ -38,6 +38,34 @@ h1{
     font-size: medium;
     colour:rgb(15, 224, 158)
 }
-speech {
-    
+table{
+    border-style: double;
 }
+th, td {
+    border: 1px solid black;
+  }
+th {
+   color:rgb(223, 83, 7);
+      }
+      td{
+        color:rgb(234, 236, 237);
+      }
+       tr:nth-child(even) {
+        background-color:rgb(8, 130, 236);
+      }
+      tr:nth-child(odd) {
+        background-color:rgb(14, 244, 175);
+      }
+      td {
+        text-align: center;
+        }
+        h,td {
+            width: 80px;
+            padding:2px 2px 2px 2px;
+            margin: -30px 1px -20px 80px;
+            
+            border-top: 2px solid rgb(89, 75, 75);
+            border-right: 4px dashed rgb(154, 98, 98);
+            border-bottom: 8px double rgb(179, 179, 121);
+            border-left: 16px inset purple;
+         }
