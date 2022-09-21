@@ -1,9 +1,15 @@
-body{
-    background-color:rgb(103, 150, 175);
+.direction{
+    background-color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifn;
+    font-size: 25px;
+    color: black;
 }
-p:hover {
-    background-color:rgb(202, 235, 112);
+.direction:hover{
+    background-color: blue;
+    color: azure;
 }
+
+
     h5
     {
         color:rgb(212, 20, 20);}
