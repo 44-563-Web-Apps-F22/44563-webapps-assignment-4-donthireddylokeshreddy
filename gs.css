@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(103, 150, 175);
+}
+p:hover {
+    background-color:rgb(202, 235, 112);
+}
+    h5
+    {
+        color:rgb(212, 20, 20);}
+h6:hover{
+    color:rgb(90, 59, 120);
+}
+  
+h6{
+    color:rgb(9, 11, 12);
+    text-shadow: 3px 3px 5px;
+}
+h1{
+    color:rgb(233, 125, 18);}
+
+h3{
+    color:rgb(23, 241, 88);}
+h3{
+    font-size:20px;}
+
+p{
+    color:rgb(106, 21, 242);}
+span{
+    color:rgb(232, 26, 43);}
+span:hover{
+    background-color:rgb(161, 238, 19);}
+h3{
+    font-style: italic;}
+
+h1{
+    font-style: inherit;}
+.Captain{
+    font-size: medium;
+    colour:rgb(15, 224, 158)
+}
+speech {
+    
+}
