@@ -22,7 +22,15 @@
     }
     .BUT{
         color:rgb(196, 4, 225);
-        font-size: 18px;
+        font-size: 15px;
+    }
+    .act{
+        color:rgb(186, 49, 207);
+        font-size: 15px;
+    }
+    .songs{
+        color:rgb(8, 8, 8);
+        font-size: 15px;
     }
     .CAPT{
         color:rgb(76, 8, 212);
