@@ -1,77 +1,68 @@
-.direction{
-    background-color: antiquewhite;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifn;
-    font-size: 25px;
-    color: black;
-}
-.direction:hover{
-    background-color: blue;
-    color: azure;
-}
-
-
-    h5
-    {
-        color:rgb(212, 20, 20);}
-h6:hover{
-    color:rgb(90, 59, 120);
-}
-  
-h6{
-    color:rgb(9, 11, 12);
-    text-shadow: 3px 3px 5px;
-}
-h1{
-    color:rgb(233, 125, 18);}
-
-h3{
-    color:rgb(23, 241, 88);}
-h3{
-    font-size:20px;}
-
-p{
-    color:rgb(106, 21, 242);}
-span{
-    color:rgb(232, 26, 43);}
-span:hover{
-    background-color:rgb(161, 238, 19);}
-h3{
-    font-style: italic;}
-
-h1{
-    font-style: inherit;}
-.Captain{
-    font-size: medium;
-    colour:rgb(15, 224, 158)
-}
-table{
-    border-style: double;
-}
-th, td {
-    border: 1px solid black;
-  }
-th {
-   color:rgb(223, 83, 7);
-      }
-      td{
-        color:rgb(234, 236, 237);
-      }
-       tr:nth-child(even) {
-        background-color:rgb(8, 130, 236);
-      }
-      tr:nth-child(odd) {
-        background-color:rgb(14, 244, 175);
-      }
-      td {
-        text-align: center;
+.speech{
+    color:rgb(20, 20, 20);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:15px;
+    text-decoration: solid;
+    }
+    .song{
+        color:black;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size:18px;
+        text-decoration: solid;
+            }
+    .direction{
+        color:rgb(21, 25, 252);
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size:18px;
+        background-color:rgb(115, 239, 233);
         }
-        h,td {
-            width: 80px;
-            padding:2px 2px 2px 2px;
-            margin: -30px 1px -20px 80px;
-            
-            border-top: 2px solid rgb(89, 75, 75);
-            border-right: 4px dashed rgb(154, 98, 98);
-            border-bottom: 8px double rgb(179, 179, 121);
-            border-left: 16px inset purple;
-         }
+    .direction:hover{
+        background-color:rgb(10, 224, 99);
+        color:rgb(254, 254, 254);
+    }
+    .BUT{
+        color:rgb(196, 4, 225);
+        font-size: 18px;
+    }
+    .CAPT{
+        color:rgb(76, 8, 212);
+        font-size: 18px;
+    }
+    .CAPT:hover {
+        color: rgb(203, 81, 81);
+        background-color:rgb(50, 144, 64);
+        text-shadow: 5px 5px 3px rgb(11, 11, 11);
+        
+        }
+    table{
+        border-style: double;
+    }
+    th, td {
+        border: 2px solid black;
+      }
+    th {
+       color:purple;
+          }
+          td{
+            color:rgb(234, 236, 237);
+          }
+           tr:nth-child(even) {
+            background-color:rgb(135, 83, 214);
+          }
+          tr:nth-child(odd) {
+            background-color:rgb(31, 3, 74);
+          }
+          td {
+            text-align: center;
+            }
+            h,td {
+                width: 95px;
+                padding:0px 4px 4px 4px;
+                margin: -32px 0px -15px 95px;
+                background: rgb(13, 169, 221);
+                border-top: 2px solid rgb(224, 91, 91);
+                border-right: 4px dashed rgb(22, 145, 108);
+                border-bottom: 8px double rgb(227, 227, 64);
+                border-left: 16px inset purple;
+             }
+                          
